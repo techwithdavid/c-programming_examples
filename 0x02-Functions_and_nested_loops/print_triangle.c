@@ -9,8 +9,8 @@ int main(void)
 
 /**
  * print_triangle - prints a triangle followed by a new line
- *
- *
+ * @n: argument to the function
+ * Return: void
  */
 void print_triangle(int n)
 {
