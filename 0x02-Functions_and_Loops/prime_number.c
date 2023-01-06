@@ -6,7 +6,7 @@ int main(void)
 {
 	int num;
 
-	printf("Enter the number to be if it's a prime number:\n");
+	printf("Enter the number to be checked if it's a prime number:\n");
 	scanf("%d", &num);
 
 	prime_number(num);
