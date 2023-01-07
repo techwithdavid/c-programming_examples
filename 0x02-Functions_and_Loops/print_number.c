@@ -1,8 +1,10 @@
 #include <stdio.h>
 
+void print_number(int n);
+
 int main(void)
 {
-	
+	print_number(-10);	
 }
 
 void print_number(int n)
