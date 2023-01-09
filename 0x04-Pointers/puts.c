@@ -19,7 +19,7 @@ void _puts(char *str)
 
 	for (i = 0; str[i] != '\0'; i++)
 	{
-		res[i] = str[i];
+		putchar(str[i]);
 	}
-	printf("%s\n", res);
+	putchar('\n');
 }
