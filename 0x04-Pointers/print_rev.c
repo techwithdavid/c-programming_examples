@@ -11,6 +11,12 @@ int main(void)
 
 }
 
+/**
+ * print_rev - prints a string, in reverse, followed by a
+ * new line
+ * @s: argument to the function
+ * Return: void
+ */
 void print_rev(char *s)
 {
 	int i, j, max;
