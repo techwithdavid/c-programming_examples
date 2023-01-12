@@ -10,6 +10,11 @@ int main(void)
 	puts2(str);
 }
 
+/**
+ * puts2 - prints every other character of a string
+ * @str: argument to the function
+ * Return: void
+ */
 void puts2(char *str)
 {
 	int i;
