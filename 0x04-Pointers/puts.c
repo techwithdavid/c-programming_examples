@@ -12,6 +12,11 @@ int main(void)
 	return (0);
 }
 
+/**
+ * _puts - prints a string
+ * @str: argument to the function
+ * Return: void
+ */
 void _puts(char *str)
 {
 	int i;
